@@ -5,7 +5,7 @@ This project analyzes how Bitcoin market sentiment (Fear vs Greed) influences tr
 
 ## Dataset
 1. Fear and Greed Index Dataset
-2. Hyperliquid Historical Trader Data
+2. Historical Trader Data
 
 ## Tools Used
 Python  
@@ -18,7 +18,7 @@ Jupyter Notebook
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/trader-sentiment-analysis
+git clone https://github.com/SaswatiD2015/trader-sentiment-analysis
 
 2. Install dependencies
 
